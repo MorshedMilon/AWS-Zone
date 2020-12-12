@@ -7,3 +7,4 @@ aws ec2 run-instances --image-id "ami-0a91cd140a1fc148a" --instance-type "t2.mic
 # To Remove ec2 instance make note of instance id
 
 aws ec2 terminate-instances --instance-ids  "i-093039110718b97ee"
+# example
